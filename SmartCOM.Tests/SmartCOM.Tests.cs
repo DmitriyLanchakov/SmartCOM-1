@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace SmartCOM.Tests
 {
     [TestClass]
-    public class UnitTest1
+    public class SmartCOMTest
     {
         [TestMethod]
         public void TestMethod1()
